@@ -24,7 +24,7 @@
     <string name="unknown">Onbekend</string>
 
     <string name="title_activity_about">AboutActivity</string>
-    <string name="about_text">Hello world!  Dit is de tekst voor het 'Over' scherm.</string>
+    <string name="about_text">Hello world!  Dit is de tekst voor het \'Over\' scherm.</string>
     <string name="action_about">Over BootUnlocker</string>
     <string name="model">Model</string>
     <string name="light_theme">Licht thema</string>
